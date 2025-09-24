@@ -1,0 +1,32 @@
+Requerimientos funcionales
+=======================
+1. El sistema debe permitir crear usuarios.
+2. El sistema debe permitir gestionar roles y permisos de los usuarios.
+3. El sistema debe permitir la autenticacion y autorización de usuarios.
+4. El sistema debe permitir registrar clientes.
+5. El sistema debe permitir crear cuentas bancarias asociadas a los clientes.
+6. El sistema debe permitir realizar transacciones entre cuentas.
+7. El sistema debe permitir consultar el saldo de una cuenta bancaria.
+8. El sistema debe permitir generar reportes de transacciones.
+9. El sistema debe permitir realizar depositos y retiros de dinero.
+10. El sistema debe permitir generar estados de cuenta mensuales.
+11. El sistema debe generar alertas por actividades sospechosas.
+12. El sistema debe permitir la recuperación de contraseñas.
+13. El sistema debe permitir a los administradores gestionar usuarios y roles.
+14. El sistema debe permitir a los administradores generar reportes de actividad del sistema.
+15. El sistema debe permitir a los usuarios actualizar su información personal.
+16. El sistema debe permitir a los usuarios cambiar su contraseña.
+17. El sistema debe permitir a los administradores bloquear y desbloquear cuentas de usuario.
+
+Requerimientos no funcionales
+=========================
+1. El sistema debe ser accesible a través de una interfaz web.
+2. El sistema debe ser compatible con los principales navegadores web (Chrome, Firefox, Safari
+    y Edge).
+3. El sistema debe ser escalable para soportar un crecimiento en el número de usuarios y transacciones.
+4. El sistema debe garantizar la seguridad de los datos mediante el uso de cifrado y otras
+    medidas de seguridad.
+5. El sistema debe tener un tiempo de respuesta máximo de 2 segundos para las operaciones más
+    comunes.
+6. El sistema debe estar disponible el 99.9% del tiempo.
+7. El sistema debe ser fácil de usar e intuitivo para los usuarios finales.
